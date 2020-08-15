@@ -1,4 +1,4 @@
-## 👋 I'm nyanye 👋
+## 💚 [iam nyanye](https://iam.nyanye.com) 🥳 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nyanye-/)](https://www.linkedin.com/in/nyanye-/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?logoWidth=15&logo=Github&logoColor=white&link=http://git-awards.com/users/nyanye)](http://git-awards.com/users/nyanye)
